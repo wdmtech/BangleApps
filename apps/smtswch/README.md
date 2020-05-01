@@ -1,6 +1,6 @@
 # Smart Switch app for BangleJS
 
-
+![Demo of Smart Switch app in action](https://raw.githubusercontent.com/wdmtech/BangleApps/add-video/apps/smtswch/demo.gif)
 
 Swipe right to turn a device ON
 Swipe left to turn a device OFF
